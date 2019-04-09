@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+ <head>
+ 
+  <title>Document</title>
+ </head>
+ <body>
+ 	<script>
+		var age=20;
+		if(age>10){
+			document.write("You are too young");
+			}else {
+				document.write("Now you are old");
+				}
+		
+	</script>
+  
+ </body>
+</html>
